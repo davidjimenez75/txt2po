@@ -1,2 +1,9 @@
 # txt2po
-Convert a plain.txt file to PoEdit
+
+Small rust program to convert a plain.txt file to PoEdit (*.po)
+
+# Usage
+
+```
+$ txt2po input.txt > output.po
+```
